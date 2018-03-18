@@ -1,8 +1,8 @@
 # vue-wot
 
-> World of Tanks API on VueJS demo app
+World of Tanks API with VueJS (demo app)
 
-[Blog post](https://kierkowski.com/world-of-tanks-rest-api-w-vuejs/)
+[Blog post](https://kierkowski.com/world-of-tanks-rest-api-w-vuejs/) | [demo site](https://kierkowski.com/vue-wot/)
 
 ## Build Setup
 
